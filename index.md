@@ -1,25 +1,22 @@
 ---
 layout: home
-title: Zusammenfassung
-permalink: /content/
+title: Drink
+permalink: /
 ---
-
+<!-- 
 # Inhaltsverzeichnis
-
 1. [UML](#uml)
 2. [IT-Sicherheit](#it-sicherheit)
-3. [Wirtschaft und Soziales](#wiso)
+3. [Wirtschaft und Soziales](#wiso) -->
 
----
 
-## UML
+<!-- ## UML -->
+{% include_relative _posts/uml.md %}
 
-{% include_relative content/uml.md %}
 
-## IT-Sicherheit
+<!-- ## IT-Sicherheit -->
+{% include_relative _posts/itsicherheit.md %}
 
-{% include_relative content/itsicherheit.md %}
 
 ## Wirtschaft und Soziales
-
-{% include_relative content/wiso.md %}
+{% include_relative _posts/wiso.md %}

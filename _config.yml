@@ -1,18 +1,13 @@
-title: The Drink
-theme: minima
+title: GAP2
 markdown: kramdown
+baseurl: '/LA_AP2'
 
-# plugins:
- # - jekyll-feed
+toc:
+    enabled: true
+    h_min: 1
+    h_max: 3
 
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+remote_theme: sighingnow/jekyll-gitbook
+
+
+
