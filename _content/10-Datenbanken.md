@@ -1,6 +1,5 @@
 ---
 title: Datenbank
 layout: post
-
 ---
 
