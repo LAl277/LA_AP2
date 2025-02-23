@@ -1,22 +1,23 @@
 ---
 layout: home
-title: Drink
+title: The Drink
 permalink: /
 ---
-<!-- 
-# Inhaltsverzeichnis
-1. [UML](#uml)
-2. [IT-Sicherheit](#it-sicherheit)
-3. [Wirtschaft und Soziales](#wiso) -->
+
+# IT-Sicherheit
+{% include_relative _content/20-It_Sicherheit.md %}
 
 
-<!-- ## UML -->
-{% include_relative _posts/uml.md %}
+# UML
+{% include_relative _content/45-Uml.md %}
+
+# Wirtschaft und Soziales
+{% include_relative _content/80-WiSo.md %}
 
 
-<!-- ## IT-Sicherheit -->
-{% include_relative _posts/itsicherheit.md %}
 
 
-## Wirtschaft und Soziales
-{% include_relative _posts/wiso.md %}
+
+
+
+

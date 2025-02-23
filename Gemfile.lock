@@ -276,7 +276,6 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   kramdown
-  webrick
 
 BUNDLED WITH
    2.6.5

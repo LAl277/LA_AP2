@@ -1,13 +1,16 @@
-title: GAP2
+title: The Drink
 markdown: kramdown
 baseurl: '/LA_AP2'
+
+remote_theme: sighingnow/jekyll-gitbook
 
 toc:
     enabled: true
     h_min: 1
     h_max: 3
 
-remote_theme: sighingnow/jekyll-gitbook
-
-
+collections:
+  content:
+    output: true
+    permalink: /:collection/:path/
 
