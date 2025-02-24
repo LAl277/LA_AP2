@@ -13,4 +13,7 @@ collections:
   content:
     output: true
     permalink: /:collection/:path/
+    
+exclude:
+  - pdf/
 
