@@ -1,10 +1,10 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
 - [Datenbanken](./10-Datenbanken.md)
 - [It Sicherheit](./20-It_Sicherheit.md)
 - [Datenschutz](./21-Datenschutz.md)
 - [Qualitaetssicherung](./30-Qualitätssicherung.md)
+- [Softwarequalität](./35-Softwarequalität.md)
 - [Softwareentwicklung](./40-Softwareentwicklung.md)
 - [Algorithmen](./41-Algorithmen.md)
 - [Uml](./45-Uml.md)
